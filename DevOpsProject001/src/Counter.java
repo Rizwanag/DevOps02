@@ -15,7 +15,7 @@ public class Counter {
 	 */
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("enter a word");
+		System.out.println("enter second word");
 		System.out.println("The enter word is : "+scan.nextLine());
 	}
 
